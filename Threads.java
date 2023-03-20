@@ -1,10 +1,8 @@
 import java.util.Date;
 
-public class MyThread implements Runnable {
-    private String msg;
+public class Threads implements Runnable {
 
-    public MyThread(String msg) {
-        this.msg = msg;
+    public Threads() {
     }
 
     @Override
