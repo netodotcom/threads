@@ -1,4 +1,4 @@
-package Conflicts;
+package Conflicts.Conflicts;
 
 public class TwoThreads {
     public static void main(String[] args) {

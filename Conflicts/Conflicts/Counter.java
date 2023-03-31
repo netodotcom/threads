@@ -1,9 +1,9 @@
-package ConflictsSolved;
+package Conflicts.Conflicts;
 
 public class Counter {
     private int count = 0;
 
-    public synchronized void increment() {
+    public void increment() {
         count++;
     }
 

@@ -1,4 +1,4 @@
-package ConflictsSolved;
+package Conflicts.Synchronization;
 
 public class TwoThreads {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ConflictsSolved;
+package Conflicts.Conflicts;
 
 public class MyThread implements Runnable {
     private Counter counter;
