@@ -1,3 +1,4 @@
+package SimpleThread;
 public class RunnableImplementation implements Runnable {
     private String name;
 

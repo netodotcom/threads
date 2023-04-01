@@ -1,3 +1,4 @@
+package SimpleThread;
 import java.util.Date;
 
 public class Threads implements Runnable {

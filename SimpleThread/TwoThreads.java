@@ -1,3 +1,4 @@
+package SimpleThread;
 public class TwoThreads {
     public static void main(String[] args) {
         Thread thread1 = new Thread(new RunnableImplementation("Thread 1"));

@@ -1,3 +1,4 @@
+package SimpleThread;
 public class ThreadsExample {
     public static void main(String[] args) {
         Thread thread1 = new Thread(new MyRunnable1("Thread 1"));
